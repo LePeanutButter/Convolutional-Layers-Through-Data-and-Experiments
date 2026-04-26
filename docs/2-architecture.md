@@ -87,7 +87,7 @@ The following sequence ensures data integrity and user transparency from issue i
 
 ### 4. High-Level System Architecture Diagram
 
-```
+```mermaid
 graph TB
 
 %% ================= FRONTEND =================
